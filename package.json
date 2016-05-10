@@ -27,31 +27,4 @@
     "tmp": "0.0.26",
     "underscore": "^1.8.3"
   },
-  "gitHead": "eab8bce754afec114d60762defb0431e6c695523",
-  "_id": "pdf-merge@0.0.4",
-  "scripts": {},
-  "_shasum": "2c7b22a2c6baa510513e8c46af1b41131925d9bb",
-  "_from": "pdf-merge@0.0.4",
-  "_npmVersion": "2.14.2",
-  "_nodeVersion": "4.0.0",
-  "_npmUser": {
-    "name": "wubzz",
-    "email": "wubzz94@hotmail.com"
-  },
-  "dist": {
-    "shasum": "2c7b22a2c6baa510513e8c46af1b41131925d9bb",
-    "tarball": "https://registry.npmjs.org/pdf-merge/-/pdf-merge-0.0.4.tgz"
-  },
-  "maintainers": [
-    {
-      "name": "wubzz",
-      "email": "wubzz94@hotmail.com"
-    }
-  ],
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/pdf-merge-0.0.4.tgz_1460476941525_0.653789374511689"
-  },
-  "directories": {},
-  "_resolved": "https://registry.npmjs.org/pdf-merge/-/pdf-merge-0.0.4.tgz"
 }
